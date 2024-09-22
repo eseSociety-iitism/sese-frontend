@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+{
+  "git": {
+    "deploymentEnabled": {
+      "master": false
+    }
+  }
+}
+=======
+
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "next.config.js",
+      "use": "@vercel/next"
+    }
+  ],
+  "git": {
+    "deploymentEnabled": {
+      "master": false,
+      "main": true  
+    }
+  }
+}
+>>>>>>> f1fd9f65a0fde53a0f3902b6e69dcca801ac3676
