@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-{
-  "git": {
-    "deploymentEnabled": {
-      "master": false
-    }
-  }
-}
-=======
+
 
 {
   "version": 2,
@@ -23,4 +15,4 @@
     }
   }
 }
->>>>>>> f1fd9f65a0fde53a0f3902b6e69dcca801ac3676
+
