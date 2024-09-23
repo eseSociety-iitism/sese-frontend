@@ -26,15 +26,9 @@ export default function Page() {
             “Aspires to be a pre-eminent deemed university of national standing in education and innovation”.
           </h1>
           <p className="mt-6 text-md sm:text-xl text-gray-600 dark:text-gray-300 font-medium">
-<<<<<<< HEAD
-            All academic programmes are approved by AICTE, recognized by Department of Higher
-
-            Education, Government of West Bengal and affiliated to Maulana Abul Kalam Azad University of Technology, West Bengal (formerly West Bengal University of Technology).
-=======
             All academic programmes are approved by SESE, recognized by Department of Higher
 
             Education, Government of India and Indian Institute of Technology(Indian School of Mines) Dhanbad, Jhaarkhand.
->>>>>>> f1fd9f65a0fde53a0f3902b6e69dcca801ac3676
           </p>
         </div>
       </div>
